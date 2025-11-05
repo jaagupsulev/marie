@@ -1,3 +1,34 @@
 body {
     background-image: url(taust.jpg);
+    background-repeat: space;
+    background-attachment: fixed;
+    background-size: cover;
+    min-height: 100vh;
+    background-position: center;
+    margin: 0;
+}
+
+header {
+    background-color: #697B89;
+    height: auto;
+    overflow: hidden;
+    font-size: 20px;
+    padding-bottom: 0.5%;
+    
+}
+
+table {
+    background-color: #F4CBDD;
+    width: 80%;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+    border: 2px solid #697B89;
+}
+
+td, th {
+  border: 1px solid #B3B0C3;
+  text-align: center;
+  padding: 8px;
 }
