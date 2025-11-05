@@ -1,0 +1,14 @@
+body {
+   background-image: url(taust.jpg);
+}
+
+.galerii {
+  width: 540px
+  ;
+  height: 300px
+}
+
+.maps {
+   width: 400px;
+   height: 300px;
+}
